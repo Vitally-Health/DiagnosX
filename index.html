@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="shortcut icon" type="image/png" href="img/icon.png" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" 
+    integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+     crossorigin="anonymous" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>DiagnosX | Healthcare Equity Reimagined</title>
+
+  </head>
+  <body>
+    <header class="header">
+      <nav class="nav sticky">
+        <img
+          src="img/DxLogo.png"
+          alt="DiagnosX logo"
+          class="nav__logo"
+          id="logo"
+        />
+        <ul class="nav__links">
+          <li class="nav__item">
+            <a class="nav__link" href="#section--1">Mission</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="#section--2">Benefits</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="#section--3">Demo</a>
+          </li>
+          <!-- <li class="nav__item">
+            <a class="nav__link" href="#section--4">Use Cases</a>
+          </li> -->
+          <li class="nav__item">
+            <a class="nav__link nav__link--btn btn--show-modal" href="#"
+              >Login</a
+            >
+          </li>
+        </ul>
+      </nav>
+
+      <div class="header__title">
+        <h1>
+          Where
+          <span class="highlight">equity</span>
+          and<br />
+          <span class="highlight">healthcare</span>
+          intersect
+        </h1>
+        <h4>Using 3D models for a deep dive into medical conditions.</h4>
+        <button class="btn--text btn--scroll-to">Learn more &DownArrow;</button>
+        <img
+          src="img/dx0.jpg"
+          class="header__img"
+          alt="Here to guide patients 24/7"/>
+      </div>
+    </header>
+
+    <section class="section" id="section--1">
+      <div class="section__title">
+        <h2 class="section__description">Mission</h2>
+        <h4 class="section__header">
+          DiagnosX offers a new approach to access to care and alleviating the burden on providers.
+        </h4>
+      </div>
+      <div class="mission_pic">
+        <img
+          src="img/dx1.jpg"
+          data-src="img/dx1.jpg"
+          alt="Bedside care"
+          class="mission__img lazy-img"
+        />
+      </div> 
+      
+      <div class="mission">
+          <div class="row">
+        <div class="mission__feature">
+          <h5 class="mission__header">Physicians spend 17-24 minutes with patients</h5>
+          <p>
+            In the US physicians spend almost 25 minutes with each patient. This means that during an 8 hour work day, a physician could see only 15 patients with respects 
+            to time for documenting medical records, reviewing old records and performing procedures. 
+          </p>
+        </div>
+
+        <div class="mission__feature">
+          <h5 class="mission__header">Shortage of up to 124,000 physicians in 12 years</h5>
+          <p>
+            According to the AAMC, the US is expected to see a mass shortage of physicians by 2034. During this time period, roughly 40% of physicians will have reached traditional retirement age.  
+          </p>
+        </div>
+       
+        <div class="mission__feature">
+          <h5 class="mission__header">Growth of population and disparities in care</h5>
+          <p>
+            Over the next 12 years, the population of the US is expected to grow more than 10%. As of 2019, 60 million Americans lived in rural areas with limited access to healthcare.
+          </p>
+        </div>
+      </div>
+      </div>
+    </section>
+
+    <section class="section" id="section--2">
+      <div class="section__title">
+        <h2 class="section__description">Benefits</h2>
+        <h3 class="section__header">
+          Gives new meaning to quality of care.
+        </h3>
+      </div>
+
+      <div class="benefits">
+        <div class="benefits__tab-container">
+          <button
+            class="btn benefits__tab benefits__tab--1 benefits__tab--active"
+            data-tab="1"
+          >
+            <span>01</span>Patient Education
+          </button>
+          <button class="btn benefits__tab benefits__tab--2" data-tab="2">
+            <span>02</span>Visual Information 
+          </button>
+          <button class="btn benefits__tab benefits__tab--3" data-tab="3">
+            <span>03</span>Reallocates Physician's Time
+          </button>
+        </div>
+        <div class="benefits__content benefits__content--1 benefits__content--active">
+          <h5 class="benefits__header">
+            DiagnosX offers a deep dive into patient's diagnosis.
+
+          </h5>
+          <p>
+            While physicians may have about 25 minutes to spend with patients, DiagnosX is available 24/7 to fully break down medical 
+            terminology, lab tests, radiology reports, and results with patients. 
+          </p>
+        </div>
+
+        <div class="benefits__content benefits__content--2">
+          <h5 class="benefits__header">
+            DiagnosX uses 3D models to detail plan of care.
+          </h5>
+          <p>  
+            Patients get a detailed model of their diagnosis for a visual understanding of their condition. Currenty, hospitals and clinical offices print out diagnosis details
+            for patients with the assumption that all have requisite reading comprehension. 
+          </p>
+        </div>
+        <div class="benefits__content benefits__content--3">
+          <h5 class="benefits__header">
+            One way to assist with the physician shortage is to have them in multiple places at once.
+          </h5>
+          <p>
+            DiagnosX becomes an extension of the physician, answering most of the typical questions patients may have for their doctor, allowing more time to focus on niche questions and other issues. 
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="section--3">
+      <div class="section__title">
+        <h2 class="section__description">Demo</h2>
+        <h3 class="section__header">
+          See for yourself how DiagnosX works to improve equity in care.
+        </h3>
+      </div>
+
+      <div class="demo container" style="text-align: center;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5_ofMTnTcCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <ul class="footer__nav">
+        <li class="footer__item">
+          <a class="footer__link" href="#">About</a>
+        </li>
+        <li class="footer__item">
+          <a class="footer__link" href="#">Terms of Use</a>
+        </li>
+        <li class="footer__item">
+          <a class="footer__link" href="#">Privacy Policy</a>
+        </li>
+        <li class="footer__item">
+          <a class="footer__link" href="#">Contact Us</a>
+        </li>
+      </ul>
+      <img src="img/logo_wt.png" alt="Logo" class="footer__logo" />
+      <p class="footer__copyright">
+        &copy; Copyright by Bree Day for DiagnosX prototype.
+      </p>
+    </footer>
+  </body>
+  <script src="script.js"></script>
+
+</html>
