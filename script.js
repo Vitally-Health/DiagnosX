@@ -26,9 +26,6 @@ btnScrollTo.addEventListener('click', function (e) {
   section1.scrollIntoView({ behavior: 'smooth' });
 });
 
-///////////////////////////////////////
-// Page navigation
-
 document.querySelector('.nav__links').addEventListener('click', function (e) {
   e.preventDefault();
 
@@ -79,7 +76,6 @@ const hndleHover = function (e) {
 // Passing "argument" into handler
 nav.addEventListener('mouseover', hndleHover.bind(0.5));
 nav.addEventListener('mouseout', hndleHover.bind(1));
-
 
 ///////////////////////////////////////
 // Reveal sections
@@ -155,10 +151,6 @@ const slider = function () {
     document
       .querySelectorAll('.dots__dot')
       .forEach(dot => dot.classList.remove('dots__dot--active'));
-
-    document
-      .querySelector(`.dots__dot[data-slide="${slide}"]`)
-      .classList.add('dots__dot--active');
   };
 
   const goToSlide = function (slide) {
@@ -196,23 +188,6 @@ const slider = function () {
     activateDot(0);
   };
   init();
-
-  // Event handlers
-  btnRight.addEventListener('click', nextSlide);
-  btnLeft.addEventListener('click', prevSlide);
-
-  document.addEventListener('keydown', function (e) {
-    if (e.key === 'ArrowLeft') prevSlide();
-    e.key === 'ArrowRight' && nextSlide();
-  });
-
-  dotContainer.addEventListener('click', function (e) {
-    if (e.target.classList.contains('dots__dot')) {
-      const { slide } = e.target.dataset;
-      goToSlide(slide);
-      activateDot(slide);
-    }
-  });
 };
 slider();
 
