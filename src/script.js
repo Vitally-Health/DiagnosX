@@ -9,6 +9,7 @@ import { EffectComposer } from 'three/examples/jsm/postprocessing/EffectComposer
 
 
 
+
 /**
  * Loaders
  */
@@ -19,7 +20,7 @@ const cubeTextureLoader = new THREE.CubeTextureLoader()
  * Base
  */
 // Debug
-const gui = new dat.GUI()
+// const gui = new dat.GUI()
 const debugObject = {}
 
 // Canvas
@@ -54,8 +55,8 @@ const environmentMap = cubeTextureLoader.load([
     '/models/bg.jpg',
     '/models/bg.jpg',
     '/models/bg.jpg',
-    '/models/bg.jpg',
-    '/models/bg.jpg',
+    '/models/bgplain.jpg',
+    '/models/bgplain.jpg',
 ])
 
 environmentMap.encoding = THREE.sRGBEncoding
@@ -64,7 +65,7 @@ scene.background = environmentMap
 scene.environment = environmentMap
 
 debugObject.envMapIntensity = 2.5
-gui.add(debugObject, 'envMapIntensity').min(0).max(10).step(0.001).onChange(updateAllMaterials)
+// gui.add(debugObject, 'envMapIntensity').min(0).max(10).step(0.001).onChange(updateAllMaterials)
 
 /**
  * Models
@@ -78,7 +79,7 @@ gltfLoader.load(
         gltf.scene.rotation.y = Math.PI * 0.5
         scene.add(gltf.scene)
 
-        gui.add(gltf.scene.rotation, 'y').min(- Math.PI).max(Math.PI).step(0.001).name('rotation')
+        // gui.add(gltf.scene.rotation, 'y').min(- Math.PI).max(Math.PI).step(0.001).name('rotation')
 
         updateAllMaterials()
     }
@@ -100,11 +101,53 @@ const raycaster = new THREE.Raycaster();
 
 const points = [
     {
-        position: new THREE.Vector3(1.55, 0.3, -0.6),
+        position: new THREE.Vector3(-0.55, -0.8, -0.6),
         element: document.querySelector('.point-0')
+    },
+    {
+        position: new THREE.Vector3(-.55, 0.3, -0.6),
+        element: document.querySelector('.point-1')
+    },
+    {
+        position: new THREE.Vector3(0.5, 0.3, 1.09),
+        element: document.querySelector('.point-2')
+    },
+    {
+        position: new THREE.Vector3(-.95, 1.3, -0.6),
+        element: document.querySelector('.point-3')
+    },
+    {
+        position: new THREE.Vector3(-.55, 4.3, -0.6),
+        element: document.querySelector('.point-4')
     }
 ]
 
+const findings = [
+    {
+        position: new THREE.Vector3(-0.55, -0.8, -0.6),
+        element: document.querySelector('.findings')
+    },
+    {
+        position: new THREE.Vector3(-0.55, -0.8, -0.6),
+        element: document.querySelector('.more')
+    },
+    {
+        position: new THREE.Vector3(-.55, 0.3, -0.6),
+        element: document.querySelector('.vitals')
+    }
+    // {
+    //     position: new THREE.Vector3(0.5, 0.3, 1.09),
+    //     element: document.querySelector('.point-2')
+    // },
+    // {
+    //     position: new THREE.Vector3(-.95, 1.3, -0.6),
+    //     element: document.querySelector('.point-3')
+    // },
+    // {
+    //     position: new THREE.Vector3(-.55, 4.3, -0.6),
+    //     element: document.querySelector('.point-4')
+    // }
+]
 
 /**
  * Lights
@@ -117,10 +160,10 @@ directionalLight.shadow.normalBias = 0.05
 directionalLight.position.set(0.25, 3, - 2.25)
 scene.add(directionalLight)
 
-gui.add(directionalLight, 'intensity').min(0).max(10).step(0.001).name('lightIntensity')
-gui.add(directionalLight.position, 'x').min(- 5).max(5).step(0.001).name('lightX')
-gui.add(directionalLight.position, 'y').min(- 5).max(5).step(0.001).name('lightY')
-gui.add(directionalLight.position, 'z').min(- 5).max(5).step(0.001).name('lightZ')
+// gui.add(directionalLight, 'intensity').min(0).max(10).step(0.001).name('lightIntensity')
+// gui.add(directionalLight.position, 'x').min(- 5).max(5).step(0.001).name('lightX')
+// gui.add(directionalLight.position, 'y').min(- 5).max(5).step(0.001).name('lightY')
+// gui.add(directionalLight.position, 'z').min(- 5).max(5).step(0.001).name('lightZ')
 
 /**
  * Sizes
@@ -180,20 +223,20 @@ effectComposer.setSize(sizes.width, sizes.height)
 // const renderPass = new RenderPass(scene, camera)
 // effectComposer.addPass(renderPass)
 
-gui
-    .add(renderer, 'toneMapping', {
-        No: THREE.NoToneMapping,
-        Linear: THREE.LinearToneMapping,
-        Reinhard: THREE.ReinhardToneMapping,
-        Cineon: THREE.CineonToneMapping,
-        ACESFilmic: THREE.ACESFilmicToneMapping
-    })
-    .onFinishChange(() =>
-    {
-        renderer.toneMapping = Number(renderer.toneMapping)
-        updateAllMaterials()
-    })
-gui.add(renderer, 'toneMappingExposure').min(0).max(10).step(0.001)
+// gui
+//     .add(renderer, 'toneMapping', {
+//         No: THREE.NoToneMapping,
+//         Linear: THREE.LinearToneMapping,
+//         Reinhard: THREE.ReinhardToneMapping,
+//         Cineon: THREE.CineonToneMapping,
+//         ACESFilmic: THREE.ACESFilmicToneMapping
+//     })
+//     .onFinishChange(() =>
+//     {
+//         renderer.toneMapping = Number(renderer.toneMapping)
+//         updateAllMaterials()
+//     })
+// gui.add(renderer, 'toneMappingExposure').min(0).max(10).step(0.001)
 
 
 const point1 = document.querySelector('.point-0');

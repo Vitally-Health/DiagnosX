@@ -1,0 +1,141 @@
+id,diagnosis,details,assoc_symptoms,med_id|
+0,Hypertension,"High blood pressure (hypertension) is a common condition in which the long-term force of the blood against your artery walls is high enough that it may eventually cause health problems such as heart disease.
+Blood pressure is determined both by the amount of blood your heart pumps and the amount of resistance to blood flow in your arteries. The more blood your heart pumps and the narrower your arteries the higher your blood pressure. A blood pressure reading is given in millimeters of mercury (mm Hg). It has two numbers.
+Top number (systolic pressure). The first or upper number measures the pressure in your arteries when your heart beats.
+Bottom number (diastolic pressure). The second or lower number measures the pressure in your arteries between beats.
+You can have high blood pressure for years without any symptoms. Uncontrolled high blood pressure increases your risk of serious health problems including heart attack and stroke.",Most people with high blood pressure have no signs or symptoms even if blood pressure readings reach dangerously high levels. A few people with high blood pressure may have headaches shortness of breath or nosebleeds but these signs and symptoms arent specific and usually dont occur until high blood pressure has reached a severe or life-threatening stage.,0|
+1,Diabetes,Diabetes mellitus refers to a group of diseases that affect how your body uses blood sugar (glucose). Glucose is vital to your health because its an important source of energy for the cells that make up your muscles and tissues. Its also your brains main source of fuel.Chronic diabetes conditions include type 1 diabetes and type 2 diabetes. Potentially reversible diabetes conditions include prediabetes and gestational diabetes. Prediabetes occurs when your blood sugar levels are higher than normal but not high enough to be classified as diabetes.,"Increased thirst
+Frequent urination
+Extreme hunger
+Unexplained weight loss
+Presence of ketones in the urine (ketones are a byproduct of the breakdown of muscle and fat that happens when theres not enough available insulin)
+Fatigue
+Irritability
+Blurred vision
+Slow-healing sores
+Frequent infections such as gums or skin infections and vaginal infections",1|
+2,Croup,"Croup refers to an infection of the upper airway which obstructs breathing and causes a characteristic barking cough.
+The cough and other signs and symptoms of croup are the result of swelling around the voice box (larynx) windpipe (trachea) and bronchial tubes (bronchi). When a cough forces air through this narrowed passageway the swollen vocal cords produce a noise similar to a seal barking. Likewise taking a breath often produces a high-pitched whistling sound (stridor).
+Croup typically occurs in younger children. Croup usually isnt serious and most children can be treated at home.","Loud barking cough thats further aggravated by crying and coughing as well as anxiety and agitation setting up a cycle of worsening signs and symptoms
+Fever
+Hoarse voice
+Breathing that may be noisy or labored",2|
+3,Pneumonia,Pneumonia is an infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus (purulent material) causing cough with phlegm or pus fever chills and difficulty breathing.,"Chest pain when you breathe or cough
+Confusion or changes in mental awareness (in adults age 65 and older)
+Cough which may produce phlegm
+Fatigue
+Fever sweating and shaking chills
+Lower than normal body temperature (in adults older than age 65 and people with weak immune systems)
+Nausea vomiting or diarrhea
+Shortness of breath",3|
+4,Respiratory Failure,Respiratory failure is a condition in which your lungs have a hard time loading your blood with oxygen or removing carbon dioxide. It can leave you with low oxygen high carbon dioxide or both.,"Bluish color to your fingernails lips and skin
+Feeling that you just cant take in enough air
+Confusion
+Heartbeat thats off
+Rapid breathing or extremely slow breathing
+Shortness of breath",3|
+5,Congestive Heart Failure,congestive heart failure — occurs when the heart muscle doesnt pump blood as well as it should. When this happens blood often backs up and fluid can build up in the lungs causing shortness of breath.,"Shortness of breath with activity or when lying down
+Fatigue and weakness
+Swelling in the legs ankles and feet
+Rapid or irregular heartbeat
+Reduced ability to exercise
+Persistent cough or wheezing with white or pink blood-tinged mucus
+Swelling of the belly area (abdomen)
+Very rapid weight gain from fluid buildup
+Nausea and lack of appetite
+Difficulty concentrating or decreased alertness
+Chest pain if heart failure is caused by a heart attack",5|
+6,Cardiovascular Disease,"Cardiovascular diseases are conditions that affect the structures or function of your heart such as:
+Abnormal heart rhythms or arrhythmias
+Aorta disease and Marfan syndrome
+Congenital heart disease","Chest pain chest tightness chest pressure and chest discomfort (angina)
+Shortness of breath
+Pain numbness weakness or coldness in your legs or arms if the blood vessels in those parts of your body are narrowed
+Pain in the neck jaw throat upper abdomen or back",6|
+7,Cardiac Arrhythmia,An arrhythmia is an irregular heartbeat. It means your heart is out of its usual rhythm. It may feel like your heart skipped a beat added a beat or is fluttering. It might feel like it’s beating too fast (which doctors call tachycardia) or too slow (called bradycardia). Or you might not notice anything.,"Palpitations (a feeling of skipped heartbeats fluttering or flip-flops)
+Pounding in your chest
+Dizziness or feeling lightheaded
+Fainting
+Shortness of breath
+Chest pain or tightness
+Weakness or fatigue (feeling very tired)
+Anxiety
+Blurry vision
+Sweating",7|
+8,Bronchitis,Bronchitis is an inflammation of the lining of your bronchial tubes which carry air to and from your lungs. People who have bronchitis often cough up thickened mucus which can be discolored. Bronchitis may be either acute or chronic.,"Cough
+Production of mucus (sputum) which can be clear white yellowish-gray or green in color — rarely it may be streaked with blood
+Fatigue
+Shortness of breath
+Slight fever and chills
+Chest discomfort",8|
+9,Peptic Ulcer Disease,Peptic ulcers are open sores that develop on the inside lining of your stomach and the upper portion of your small intestine.,"Burning stomach pain
+Feeling of fullness bloating or belching
+Intolerance to fatty foods
+Heartburn
+Nausea",9|
+10,Cholelithiasis,Gallstones are hardened deposits of digestive fluid that can form in your gallbladder. Your gallbladder is a small pear-shaped organ on the right side of your abdomen just beneath your liver. The gallbladder holds a digestive fluid called bile thats released into your small intestine.,"Sudden and rapidly intensifying pain in the upper right portion of your abdomen
+Sudden and rapidly intensifying pain in the center of your abdomen just below your breastbone
+Back pain between your shoulder blades
+Pain in your right shoulder
+Nausea or vomiting",10|
+11,Gastritis,Gastritis is a general term for a group of conditions with one thing in common: Inflammation of the lining of the stomach. The inflammation of gastritis is most often the result of infection with the same bacterium that causes most stomach ulcers or the regular use of certain pain relievers. Drinking too much alcohol also can contribute to gastritis.,"Gnawing or burning ache or pain (indigestion) in your upper abdomen that may become either worse or better with eating
+Nausea
+Vomiting
+A feeling of fullness in your upper abdomen after eating",9|
+12,Diverticulitis,Diverticula are small bulging pouches that can form in the lining of your digestive system. They are found most often in the lower part of the large intestine (colon). Diverticula are common especially after age 40 and seldom cause problems.,"Pain which may be constant and persist for several days. The lower left side of the abdomen is the usual site of the pain. Sometimes however the right side of the abdomen is more painful especially in people of Asian descent.
+Nausea and vomiting.
+Fever.
+Abdominal tenderness.
+Constipation or less commonly diarrhea.",12|
+13,Stroke,An ischemic stroke occurs when the blood supply to part of the brain is interrupted or reduced preventing brain tissue from getting oxygen and nutrients. Brain cells begin to die in minutes.,Trouble speaking and understanding what others are saying. Paralysis or numbness of the face arm or leg. Problems seeing in one or both eyes. Headache. Trouble walking.,13|
+14,Paresthesia,Paresthesia is numbness or a burning feeling that occurs most often in the extremities such as the hands arms legs or feet but that can happen elsewhere in the body as well,"tingling or a “pins and needles” sensation
+aching or burning pain
+numbness or poor feeling in the affected area
+feeling that the affected area has “fallen asleep”
+prickling or itching feeling
+hot or cold skin",14|
+15,Aphasia,Aphasia is a condition that affects your ability to communicate. It can affect your speech as well as the way you write and understand both spoken and written language.,"Speak in short or incomplete sentences
+Speak in sentences that dont make sense
+Substitute one word for another or one sound for another
+Speak unrecognizable words
+Not understand other peoples conversation
+Write sentences that dont make sense",15|
+16,Dizziness,"Dizziness is a term used to describe a range of sensations such as feeling faint woozy weak or unsteady. Dizziness that creates the false sense that you or your surroundings are spinning or moving is called vertigo.
+","A false sense of motion or spinning (vertigo)
+Lightheadedness or feeling faint
+Unsteadiness or a loss of balance
+A feeling of floating wooziness or heavy-headedness",16|
+17,Laceration,A laceration or cut refers to a skin wound. Unlike an abrasion none of the skin is missing. A cut is typically thought of as a wound caused by a sharp object like a shard of glass.,bruising,17|
+18,Contusion,Contusion is the medical term for a bruise. It is the result of a direct blow or an impact such as a fall. Contusions are common sports injuries.,pain at injury site,14|
+19,Femoral Fracture,A break in the bone,pain at injury site,4|
+20,Migraine,A migraine is a headache that can cause severe throbbing pain or a pulsing sensation usually on one side of the head. ,"Constipation
+Mood changes from depression to euphoria
+Food cravings
+Neck stiffness
+Increased urination
+Fluid retention
+Frequent yawning",14|
+21,Kidney Stone,Kidney stones (also called renal calculi nephrolithiasis or urolithiasis) are hard deposits made of minerals and salts that form inside your kidneys.,"Severe sharp pain in the side and back below the ribs
+Pain that radiates to the lower abdomen and groin
+Pain that comes in waves and fluctuates in intensity
+Pain or burning sensation while urinating
+Pink red or brown urine
+Cloudy or foul-smelling urine
+A persistent need to urinate urinating more often than usual or urinating in small amounts
+Nausea and vomiting
+Fever and chills if an infection is present",18|
+22,Constipation,Chronic constipation is infrequent bowel movements or difficult passage of stools that persists for several weeks or longer.,"Passing fewer than three stools a week
+Having lumpy or hard stools
+Straining to have bowel movements
+Feeling as though theres a blockage in your rectum that prevents bowel movements
+Feeling as though you cant completely empty the stool from your rectum
+Needing help to empty your rectum such as using your hands to press on your abdomen and using a finger to remove stool from your rectum",19|
+23,Anemia,Anemia is a condition in which you lack enough healthy red blood cells to carry adequate oxygen to your bodys tissues.,"Fatigue
+Weakness
+Pale or yellowish skin
+Irregular heartbeats
+Shortness of breath
+Dizziness or lightheadedness
+Chest pain
+Cold hands and feet
+Headaches",11|

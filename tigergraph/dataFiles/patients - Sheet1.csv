@@ -1,0 +1,51 @@
+id,Patient Name,Diagnosis,Physician_id,Diagnosis_id,med_id
+0,Uzair Emery,Hypertension,0,0,0
+1,Aaisha Burton,Hypertension,1,0,0
+2,Vihaan Ware,Hypertension,0,0,0
+3,Violet Hutchings,Hypertension,1,0,0
+4,Atif Sierra,Hypertension,1,0,0
+5,Elara Landry,Diabetes,0,1,1
+6,Mira Cervantes,Diabetes,0,1,1
+7,Varun Ray,Diabetes,1,1,1
+8,Gabriella Bowler,Diabetes,0,1,1
+9,Lea Gutierrez,Diabetes,2,1,1
+10,Tommy Salinas,Cardiovascular Disease,4,6,6
+11,Vladimir Woodard,Cardiovascular Disease,3,6,6
+12,Kye Osborne,Cardiovascular Disease,3,6,6
+13,Haseeb John,Congestive Heart Failure,4,5,5
+14,Tess Metcalfe,Congestive Heart Failure,4,5,5
+15,Sienna Gamble,Congestive Heart Failure,3,5,5
+16,Brax Velazquez,Congestive Heart Failure,4,5,5
+17,Nolan Osborn,Croup,2,2,2
+18,Abdul Calhoun,Croup,2,2,2
+19,Garrett Macgregor,Anemia,1,23,11
+20,Alessandro Fenton,Cardiac Arrhythmia,3,7,7
+21,Jemma Marks,Cardiac Arrhythmia,4,7,7
+22,Georgie Abbott,Cardiac Arrhythmia,3,7,7
+23,Cassandra Odling,Bronchitis,6,8,8
+24,Ikrah Kearns,Bronchitis,5,8,8
+25,Maariya Watt,Bronchitis,5,8,8
+26,August Brennan,Bronchitis,6,8,8
+27,Rogan Ramos,Pneumonia,5,3,3
+28,Taliyah Vaughan,Pneumonia,6,3,3
+29,Mehak Morrow,Pneumonia,5,3,3
+30,Blaine Palmer,Cholelithiasis,0,10,10
+31,Piotr Hatfield,Cholelithiasis,1,10,10
+32,Chelsea Garner,Cholelithiasis,1,10,10
+33,Muhammed Hibbert,Peptic Ulcer Disease,8,9,9
+34,Charis O'Neill,Peptic Ulcer Disease,7,9,9
+35,Regan Carty,Peptic Ulcer Disease,7,9,9
+36,Arissa Parrish,Gastritis,8,11,9
+37,Ari Beard,Gastritis,8,11,9
+38,Donte Rosa,Diverticulitis,8,12,12
+39,Alisa Simons,Diverticulitis,7,12,12
+40,Jaskaran Spooner,Stroke,9,13,13
+41,Muna Barker,Paresthesia,9,14,14
+42,Shae O'Brien,Aphasia,9,15,15
+43,Mustafa Singh,Dizziness,9,16,16
+44,Alvin Wright,Laceration,10,17,17
+45,Haleemah Wormald,Femoral Fracture,10,19,4
+46,Lexi-May O'Quinn,Kidney Stone,10,21,18
+47,Nettie Obrien,Contusion,10,18,14
+48,Ramone Andersen,Constipation,10,22,19
+49,Antoni Wood,Migraine,10,20,14

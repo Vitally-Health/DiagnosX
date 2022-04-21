@@ -1,0 +1,51 @@
+id,patient_id,immunization_type,immunization_date,expiration
+0,0,Hepatitis B,April 1999,No expiration
+1,1,COVID,May 2022,November 2023
+2,2,   COVID,January 2021,July 2022
+3,3,Tetanus,February 2018,February 2023
+4,4,   ,,   
+5,5,Hepatitis B,June 2021,No expiration
+6,6,COVID,August 2021,February 2022
+7,7,   ,,   
+8,8,Hepatitis B,May 2021,No expiration
+9,9,   ,,   
+10,10,   ,,   
+11,11,Hepatitis B,December 2017,No expiration
+12,12,   ,,   
+13,13,Tetanus,April 2021,April 2026
+14,14,COVID,June 2020,December 2020
+15,15,   ,,   
+16,16,COVID,November 2021,May 2022
+17,17,   ,,   
+18,18,   ,,   
+19,19,Hepatitis B,June 2016,No expiration
+20,20,   ,,   
+21,21,Tetanus,January 2022,January 2027
+22,22,   ,,   
+23,23,COVID,October 2021,April 2021
+24,24,Influenza,May 2021,March2022
+25,25,,,   
+26,26,COVID,September 2021,March 2021
+27,27,      Infleunza,11/1/2021,5/1/2022
+28,28,Tetanus,March 2020,March 2025
+29,29,COVID,June 2021,December 2021
+30,30,,,
+31,31,   ,,   
+32,32,COVID,April 2021,October 2021
+33,33,   ,,   
+34,34,   ,,   
+35,35,Hepatitis C,June 1993,No expiration
+36,36,   ,,   
+37,37,Tetanus,October 2021,October 2026
+38,38,   ,,   
+39,39,COVID,November 2021,May 2022
+40,40,   ,,   
+41,41,Hepatitis A,February 2010,No expiration
+42,42,   ,,   
+43,43,COVID,March 2022,September 2022
+44,44,   ,,   
+45,45,   ,,   
+46,46,Tetanus,April 2014,April 2019
+47,47,COVID,August 2021,February 2022
+48,48,   ,,   
+49,49,   ,,   

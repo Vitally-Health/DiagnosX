@@ -1,0 +1,51 @@
+id,patient_id,past_diagnosis,chronic_condition
+0,0,Hypertension,TRUE
+1,1,,
+2,2,Hypertension,TRUE
+3,3,,
+4,4,Hypertension,TRUE
+5,5,Diabetes,TRUE
+6,6,Diabetes,TRUE
+7,7,,
+8,8,Diabetes,TRUE
+9,9,Diabetes,TRUE
+10,10,Hypertension,
+11,11,,
+12,12,Hypertension,TRUE
+13,13,Hypertension and diabetes,TRUE
+14,14,Hypertension,TRUE
+15,15,Hypertension and diabetes,TRUE
+16,16,Hypertension,TRUE
+17,17,,
+18,18,,
+19,19,,
+20,20,Hypertension,TRUE
+21,21,Atrial fibrillation,TRUE
+22,22,Hypertension,TRUE
+23,23,,
+24,24,,
+25,25,Asthma,TRUE
+26,26,Asthma,TRUE
+27,27,Bronchitis,FALSE
+28,28,Asthma,TRUE
+29,29,,
+30,30,Gastritis,FALSE
+31,31,,
+32,32,,
+33,33,Gastritis,FALSE
+34,34,,
+35,35,,
+36,36,,
+37,37,,
+38,38,,
+39,39,,
+40,40,Hypertension and diabetes,TRUE
+41,41,,
+42,42,,
+43,43,,
+44,44,,
+45,45,,
+46,46,,
+47,47,,
+48,48,,
+49,49,,

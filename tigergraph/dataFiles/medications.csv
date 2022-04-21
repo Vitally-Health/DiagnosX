@@ -1,0 +1,145 @@
+id,medication,details,concerning sx,dose|
+0,lisinopril,"Lisinopril is an ACE inhibitor. ACE stands for angiotensin converting enzyme. They block the production of angiotensin II a substance that narrows blood vessels and releases hormones such as aldosterone and norepinephrine by inhibiting an enzyme called angiotensin converting enzyme. Angiotensin II aldosterone and norepinephrine all increase blood pressure and urine production by the kidneys. If levels of these three substances decrease in the body this allows blood vessels to relax and dilate (widen) reducing both blood and kidney pressure. ACE inhibitors also increase the production of bradykinin another substance that makes blood vessels dilate.
+","a light-headed feeling like you might pass out
+fever sore throat
+high potassium - nausea weakness tingly feeling chest pain irregular heartbeats loss of movement
+kidney problems - little or no urination swelling in your feet or ankles feeling tired or short of breath or
+liver problems - nausea upper stomach pain itching tired feeling loss of appetite dark urine clay-colored stools jaundice (yellowing of the skin or eyes).
+headache dizziness;
+cough; or
+chest pain.",2.5 to 5 mg orally once a day|
+1,metformin,"Metformin is an oral diabetes medicine that helps control blood sugar levels.
+Metformin is used together with diet and exercise to improve blood sugar control in adults with type 2 diabetes mellitus.
+Metformin is sometimes used together with insulin or other medications but it is not for treating type 1 diabetes.
+Metformin is also used off-label to treat polycystic ovary syndrome (PCOS).","unusual muscle pain
+feeling cold
+trouble breathing
+feeling dizzy light-headed tired or very weak
+stomach pain vomiting or
+slow or irregular heart rate
+low blood sugar
+nausea upset stomach or
+diarrhea.",500 mg orally twice a day or 850 mg orally once a day|
+2,glucocorticoid,Glucocorticoids are powerful medicines that fight inflammation and work with your immune system to treat wide range of health problems.,"Weight gain
+Feeling very hungry
+Water retention or swelling
+Mood swings
+Blurred vision
+Feeling nervous or restless
+Trouble sleeping
+Muscle weakness
+Acne
+Stomach irritation",25mg twice a day|
+3,Antibiotics,Antibiotics are medicines that fight bacterial infections in people and animals. They work by killing the bacteria or by making it hard for the bacteria to grow and multiply.,"Rash
+Nausea
+Diarrhea
+Yeast infections",125mg once a day|
+4,Percocet,Percocet is a prescription medicine used to treat the symptoms of acute pain and moderate-to-severe pain. Percocet may be used alone or with other medications.,"shallowing breathing
+lightheadedness
+weakness
+tiredness
+fever
+unusual bruising or bleeding
+confusion
+unusual thoughts or behavior
+problems with urination
+nausea
+upper stomach pain
+tiredness
+loss of appetite
+dark urine
+clay-colored stools
+yellowing of skin or eyes (jaundice)
+vomiting
+dizziness
+worsening tiredness and
+weakness",2 tablets every 6 hours as needed for pain. The total daily dose of acetaminophen should not exceed 4 grams.|
+5,Epaned,Epaned is a prescription medicine used to treat the symptoms of High Blood Pressure (Hypertension) Left Ventricular Dysfunction and Congestive Heart Failure (CHF). Epaned may be used alone or with other medications.,"hives
+difficulty breathing
+swelling of your face lips tongue or throat
+fainting
+muscle weakness
+slow or irregular heartbeat
+dark urine
+persistent nausea or vomiting
+loss of appetite
+stomach pain
+yellowing of the eyes and skin (jaundice)
+rash
+itching and
+severe dizziness",2.5 mg twice a day titrated up to a maximum of 20 mg twice a day as tolerated|
+6,Statins,Statins are drugs that can lower your cholesterol. They work by blocking a substance your body needs to make cholesterol.,"Headache.
+Nausea.
+Dizziness.
+Gas.
+Diarrhea.
+Constipation.
+Achy muscles or joints.",10 - 20 mg once daily|
+7,Flecainide, Flecainide is known as an anti-arrhythmic drug. It works by blocking certain electrical signals in the heart that can cause an irregular heartbeat. Treating an irregular heartbeat can decrease the risk for blood clots and this effect can reduce your risk of heart attack or stroke,Dizziness vision problems (such as blurred vision problems focusing seeing spots) headache nausea shaking tiredness or weakness may occur. ,50 mg by mouth twice a day. May increase by 50 mg every 4 days; do not exceed 300 mg/day|
+8,prednisone,Prednisone is a corticosteroid. It prevents the release of substances in the body that cause inflammation. It also suppresses the immune system.,"blurred vision eye pain or seeing halos around lights;
+swelling rapid weight gain feeling short of breath;
+severe depression feelings of extreme happiness or sadness changes in personality or behavior seizure (convulsions);
+bloody or tarry stools coughing up blood;
+pancreatitis (severe pain in your upper stomach spreading to your back nausea and vomiting fast heart rate);
+low potassium (confusion uneven heart rate extreme thirst increased urination leg discomfort muscle weakness or limp feeling); or
+dangerously high blood pressure (severe headache blurred vision buzzing in your ears anxiety confusion chest pain shortness of breath uneven heartbeats seizure).
+sleep problems (insomnia) mood changes;
+increased appetite gradual weight gain;
+acne increased sweating dry skin thinning skin bruising or discoloration;
+slow wound healing;
+headache dizziness spinning sensation;
+nausea stomach pain bloating; or
+changes in the shape or location of body fat (especially in your arms legs face neck breasts and waist).",5-60 mg/day by mouth|
+9,Omeprazole,Omeprazole is used to treat certain stomach and esophagus problems (such as acid reflux ulcers). It works by decreasing the amount of acid your stomach makes.,Headache Abdominal pain,20mg once a day|
+10,Ursodiol,Ursodiol is used to dissolve gallstones in patients who do not need to have their gallbladders removed or in those in whom surgery should be avoided because of other medical problems.,Stomach upset nausea diarrhea dizziness back pain hair loss or cough may occur.,300 milligrams (mg) two times a day|
+11,ferrous sulfate,Ferrous sulfate is an iron salt that the body absorbs well. People commonly use it as an iron supplement to maintain normal blood iron levels ,"fatigue
+headaches
+feeling weak
+low energy levels
+difficulty concentrating
+difficulty thinking clearly
+hair loss
+brittle nails
+upset stomach
+poor immunity
+heart palpitations
+restless leg syndrome
+shortness of breath
+the inability to regulate body temperature
+pica an urge to eat nonfood items such as paint or soap",325 mg orally 3 times a day|
+12,Ciprofloxacin,"Ciprofloxacin is an antibiotic. It belongs to a group of antibiotics called fluoroquinolones.
+It is used to treat serious infections or infections when other anitbiotics have not worked.",Diarrhea,50 to 750 milligrams (mg) 2 times a day taken every 12 hours.|
+13,Anticoagulant,Anticoagulants are medications that help stop your blood from thickening or “clotting.” Your body does need to be able to clot to help seal wounds inside and outside your body. But unnecessary clots can cause problems that can be life-threatening. Those that travel to the brain can cause a stroke; to the heart cardiac arrest; and to the lungs a pulmonary embolism.,"passing blood in your urine.
+passing blood when you poo or having black poo.
+severe bruising.
+prolonged nosebleeds.
+bleeding gums.
+vomiting blood or coughing up blood.
+heavy periods in women.",150 mg twice daily|
+14,Ibuprofen,Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID). It works by blocking your bodys production of certain natural substances that cause inflammation. This effect helps to decrease swelling pain or fever.,Upset stomach nausea vomiting headache diarrhea constipation dizziness or drowsiness. ,400 milligrams (mg) every four hours as needed.|
+15,Nootropil,Piracetam suggested uses include for Alzheimers disease dementia memory dysfunction alcoholism Raynauds phenomenon deep vein thrombosis (DVT) stroke tardive dyskinesia dyslexia brain injury and vertigo.,"Common side effects of piracetam include:
+Diarrhea
+Weight gain
+Drowsiness
+Insomnia
+Nervousness
+Depression
+Muscle spasm
+Hyperactivity
+Rash
+",1.6-9.6 g/day orally|
+16,dimenhydrinate,"Dimenhydrinate is an antihistamine that reduces the effects of natural chemical histamine in the body.
+Dimenhydrinate is used to treat or prevent nausea vomiting and dizziness associated with motion sickness.","little or no urination
+confusion mood changes
+tremors restlessness
+a seizure (convulsions) or
+fast or irregular heartbeats.
+Side effects such as dry mouth constipation and confusion may be more likely in older adults.
+drowsiness
+dry mouth nose or throat
+constipation
+blurred vision or
+feeling restless or excited (especially in children).",1-2 tablets every 4-6 hours|
+17,Acetaminophen,This drug is used to treat mild to moderate pain (from headaches menstrual periods toothaches backaches osteoarthritis or cold/flu aches and pains) and to reduce fever.,This drug usually has no side effects. If you have any unusual effects contact your doctor or pharmacist promptly.,2 pills every 4–6 hours to 2 pills every 6 hours|
+18,Flomax,Flomax works by relaxing the muscles in the prostate and the bladder to allow normal flow or urine,Dizziness lightheadedness drowsiness runny/stuffy nose or ejaculation problems,0.4 mg once daily|
+19,polyethylene glycol ,This medication is used to treat occasional constipation. It works by holding water in the stool to soften the stool and increases the number of bowel movements.,Nausea abdominal cramping or gas may occur.,Mix the powder with a glass (4-8 ounces/120-240 milliliters) of liquid such as water juice soda coffee or tea.|

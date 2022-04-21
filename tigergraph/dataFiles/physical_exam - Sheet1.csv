@@ -1,0 +1,51 @@
+id,patient_id,Physician_id,general,heent,cardiac,Pulmonary,Skeletal,Skin,Neurological,Abdominal
+0,0,0,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal
+1,1,1,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal
+2,2,0,Normal,Normal,Murmur,Normal,Normal,Normal,Normal,Normal
+3,3,1,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal
+4,4,1,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal
+5,5,0,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal
+6,6,0,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal
+7,7,1,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal
+8,8,0,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal
+9,9,2,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal
+10,10,4,Normal,Normal,Gallop,Normal,Normal,Normal,Normal,Normal
+11,11,3,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal
+12,12,3,Normal,Normal,Rub and Gallop,Normal,Normal,Normal,Normal,Normal
+13,13,4,Normal,Normal,Murmur,Normal,Normal,Normal,Normal,Normal
+14,14,4,Normal,Normal,Bradycardic,Normal,Normal,Normal,Normal,Normal
+15,15,3,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal
+16,16,4,Normal,Normal,Bradycardic,Normal,Normal,Normal,Normal,Normal
+17,17,2,Normal,Normal,Tachycardic,Croupy cough,Normal,Normal,Normal,Normal
+18,18,2,Normal,Normal,Normal,Croupy cough,Normal,Normal,Normal,Normal
+19,19,1,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal
+20,20,3,Normal,Normal,Tachycardic and Irregular Rhythm,Normal,Normal,Normal,Normal,Normal
+21,21,4,Normal,Normal,Irregular Rhythm,Normal,Normal,Normal,Normal,Normal
+22,22,3,Normal,Normal,Tachycardic,Normal,Normal,Normal,Normal,Normal
+23,23,6,Normal,Normal,Normal,Rales right upper lobe,Normal,Normal,Normal,Normal
+24,24,5,Normal,Normal,Normal,Wheezing,Normal,Normal,Normal,Normal
+25,25,5,Normal,Normal,Normal,Wheezing and rhonchi,Normal,Normal,Normal,Normal
+26,26,6,Normal,Normal,Normal,Diffuse wheezing,Normal,Normal,Normal,Normal
+27,27,5,Normal,Normal,Normal,Diminished breath sounds,Normal,Normal,Normal,Normal
+28,28,6,Normal,Normal,Normal,rales left upper lobe,Normal,Normal,Normal,Normal
+29,29,5,Normal,Normal,Normal,Diminished breath sounds,Normal,Normal,Normal,Normal
+30,30,0,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Right upper quadrant abdominal pain
+31,31,1,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Right upper quadrant abdominal pain
+32,32,1,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Right upper quadrant abdominal pain
+33,33,8,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Epigastric tenderness
+34,34,7,Normal,Normal,Normal,Normal,Normal,Normal,Normal,periumbilical tenderness
+35,35,7,Normal,Normal,Normal,Normal,Normal,Normal,Normal,periumbilical tenderness
+36,36,8,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Epigastric tenderness
+37,37,8,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Epigastric tenderness
+38,38,8,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Left lower quadrant tenderness
+39,39,7,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Left lower quadrant tenderness
+40,40,9,Normal,Normal,Normal,Normal,Normal,Normal,"Slurred speech, left sided weakness",Normal
+41,41,9,Normal,Normal,Normal,Normal,Normal,Normal,Diminished sensation to right side,Normal
+42,42,9,Normal,Normal,Normal,Normal,Normal,Normal,Aphasic speech,Normal
+43,43,9,Normal,Normal,Normal,Normal,Normal,Normal,Lateral nystagmus,Normal
+44,44,10,Normal,Normal,Normal,Normal,Normal,2cm laceration to right forearm,Normal,Normal
+45,45,10,Normal,Normal,Normal,Normal,Fracture of left femur,Normal,Normal,Normal
+46,46,10,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Right flank tenderness
+47,47,10,Normal,Normal,Normal,Normal,Normal,5cm contusion to left leg,Normal,Normal
+48,48,10,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Diffuse abdominal tenderness
+49,49,10,Normal,Normal,Normal,Normal,Normal,Normal,Normal,Normal
