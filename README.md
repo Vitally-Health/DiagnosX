@@ -29,7 +29,7 @@ Other additions:
 DiagnosX can be applied to any industry someone is trying to learn from. Even further applications could include data and 3D models of concerning symptoms for pets and how certain foods affect them i.e. chocolate for dogs. 3D modeling of car parts could also aid mechanics in explaining diagnostics on vehicles and how certain parts of a car affect it.
 
 
-Data: Give context for the dataset used and give full access to judges if publicly available or metadata otherwise.
+Data: located in the Tigergraph file in the DiagnosX repository.
 
 Technology Stack: DiagnosX was written in Javascript in conjunction with the Three.js and GSAP libraries for rendering and animation of 3D models. A Tigergraph schema and graph database was created for establishing connections of data files and rendering data on the backend. There were a number of issues with linking the front end and the backend as well as getting the exact data needed when querying the database. For better visualization of the application, data was hardcoded in and the schema and graph database created for DiagnosX was included for implementation once those kinks are worked out. 
 
@@ -43,10 +43,6 @@ Installation: run:
 		npm install
 		npm run dev	
 
-Please give detailed instructions on installing, configuring, and running the project so judges can fully replicate and assess it.
-
-This can include:
-
 Clone repository: https://github.com/BreeDay/DiagnosX
 
 Install dependencies: three.js and gsap libraries. In package.json file
@@ -57,18 +53,19 @@ Steps to build/run project: npm install
 				npm run dev
 
 
-Known Issues and Future Improvements: Front end and back end function independently but are not connected. There were issues with getting correct data back when querying database. 
+Known Issues and Future Improvements: 
+Front end and back end function independently but are not connected. There were issues with getting correct data back when querying database. 
 
-Explain known limitations within the project and potential next steps: Creating or purchasing 3D models. It takes me about a week to create 1 model or I could pay $10-20 for a model from a creator. There are a number of models currently available for the body systems, however, if I need more specific models, the creators take about 2-3 days to create them. 
+Explain known limitations within the project and potential next steps: 
+Creating or purchasing 3D models. It takes me about a week to create 1 model or I could pay $10-20 for a model from a creator. There are a number of models currently available for the body systems, however, if I need more specific models, the creators take about 2-3 days to create them. 
 
 Reflections:
 The code and database connections are not as ironed out as I wanted the to be but I am proud that the idea for an application of this magnitude is out of my head and into the world to help millions of people achieve equitable access of healthcare and understanding of their medical condition. This was my first time putting together a graph database and the limitless ability to scale data makes DiagnosX an agile program with limitless applications. 
 
-Review the steps you took to create this project and the resources you were provided. Feel free to indicate room for improvement and general reflections.
+Review the steps you took to create this project and the resources you were provided. Feel free to indicate room for improvement and general reflections:
 The youtube tutorials were great for helping a beginner like myself use a powerful technology like tigergraph. I also got a number of questions answered over the 4-5 sessions of office hours I attended. For future hackathons, replication of common bugs or errors users run into and how to fix them would be extremely valuable.  
 
-References
-
+References:
 Design inspiration for the front end: Bruno Simon- Three.js rendering of 3D models 
 						Jonas Schleberman- landing page design
 Backend: Tigergraph youtube videos 	
